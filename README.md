@@ -12,4 +12,6 @@ I love JavaScript and Python
 <h1 align='center'><i>Stay awesome!</i></h1>
 ![Mujeebullah Kalwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujeebullahkalwar&show_icons=true&theme=radical)
 
+<img src="https://github-readme-stats.vercel.app/api?username=mujeebullahkalwar&show_icons=true&theme=radical">
+
 
