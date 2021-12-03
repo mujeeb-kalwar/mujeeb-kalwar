@@ -9,7 +9,7 @@ I love JavaScript and Python
 </p>
 <p align='center'>For enquiries, reach out me on <a href="http://mujeeb.move.pk">Website</a>.</p>
 
-<h1 align='center'><i>Stay awesome!</i></h1
+<h1 align='center'><i>Stay awesome!</i></h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mujeebullahkalwar&show_icons=true">
 
