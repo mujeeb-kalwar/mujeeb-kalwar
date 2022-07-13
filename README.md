@@ -23,8 +23,7 @@ My name is Mujeeb Kalwar and I am a Software Engineer. I am from [Pakistan](http
 ![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=668AFF)
 ![MSSQL](https://img.shields.io/badge/DB-MSSQL-informational?style=flat&logo=mssql&logoColor=white&color=668AFF)
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=668AFF)
-![DocumentDB](https://img.shields.io/badge/DB-LevelDB-informational?style=flat&logo=leveldb&logoColor=white&color=668AFF)
-![RDS](https://img.shields.io/badge/DB-RocksDB-informational?style=flat&logo=rocksdb&logoColor=white&color=668AFF)
+![DocumentDB](https://img.shields.io/badge/DB-DocumentDB-informational?style=flat&logo=db&logoColor=white&color=668AFF)
 
 
 ![Make](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=FFFC66)
