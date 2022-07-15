@@ -38,6 +38,7 @@ My name is Mujeeb Kalwar a Software Engineer from [Pakistan](https://unsplash.co
 
 ![ReactJS](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=FF66EF)
 ![Angular](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=FF66EF)
+![AdonisJs](https://img.shields.io/badge/Code-Adonis-informational?style=flat&logo=adonis&logoColor=white&color=FF66EF)
 
 ## &#x1f4c8; GitHub Stats
 
