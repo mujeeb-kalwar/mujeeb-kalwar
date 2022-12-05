@@ -3,7 +3,7 @@
 My name is Mujeeb Kalwar a Software Engineer from [Pakistan](https://unsplash.com/s/photos/pakistan), living in [Karachi](https://unsplash.com/s/photos/karachi).
 
 [![Github](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://mujeeb.move.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=)](https://twitter.com/mujeebullahkalwar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=)](https://twitter.com/mujeeb_kalwar_1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujeeb-kalwar)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MujeebullahKalwar)
 [![Github](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujeebkalwar.mk@gmail.com)
