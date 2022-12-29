@@ -42,12 +42,17 @@ My name is Mujeeb Kalwar a Software Engineer from [Pakistan](https://unsplash.co
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MujeebullahKalwar">
-  <img src="https://github-readme-stats.vercel.app/api?username=MujeebullahKalwar&show_icons=true&count_private=true&hide=stars" alt="Mujeeb's GitHub stats" style="max-width: 100%; width:50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MujeebullahKalwar&show_icons=true&count_private=true&hide=stars" alt="Mujeeb's GitHub stats" style="max-width: 100%; width:51%">
 </a>
 
 <a href="https://github.com/MujeebullahKalwar">
   <img src="https://streak-stats.demolab.com/?user=MujeebullahKalwar&currStreakLabel=000&ring=2f80ed&fire=2f80ed" alt="Mujeeb's GitHub streaks" style="max-width: 100%; width:48%">
 </a>
 
+<center>
+  <a href="https://github.com/MujeebullahKalwar">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujeebullahKalwar&langs_count=5" />
+  </a>
+</center>
 
 
