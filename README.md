@@ -49,7 +49,7 @@ My name is Mujeeb Kalwar a Software Engineer from [Pakistan](https://unsplash.co
   <img src="https://streak-stats.demolab.com/?user=MujeebullahKalwar&currStreakLabel=000&ring=2f80ed&fire=2f80ed" alt="Mujeeb's GitHub streaks" style="max-width: 100%; width:48%">
 </a>
 
-<center>
+<div style="width: 100%; text-align: center;">
   <a href="https://github.com/MujeebullahKalwar">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujeebullahKalwar&langs_count=5" />
   </a>
