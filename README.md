@@ -41,33 +41,10 @@ My name is Mujeeb Kalwar a Software Engineer from [Pakistan](https://unsplash.co
 
 <hr />
 
-
-<a href="https://github.com/MujeebullahKalwar">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MujeebullahKalwar&theme=github_dark&show_icons=true&count_private=true&hide=stars" alt="Mujeeb's GitHub stats">
-</a>
-
-
-
 <!-- 
   <img src="https://github-readme-stats.vercel.app/api?username=MujeebullahKalwar&show_icons=true&count_private=true&hide=stars" alt="Mujeeb's GitHub stats" style="max-width: 100%; width:51%">
--->
-  <!-- 
-<a href="https://github.com/MujeebullahKalwar">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MujeebullahKalwar&theme=github_dark&show_icons=true&count_private=true&hide=stars" alt="Mujeeb's GitHub streaks" style="max-width: 100%; width:48%">
-</a>
-  -->
-
-<div style="width: 100%; text-align: center;">
-  <a href="https://github.com/MujeebullahKalwar">
-    <img src="https://streak-stats.demolab.com/?user=MujeebullahKalwar&currStreakLabel=000&ring=2f80ed&fire=2f80ed" alt="Mujeeb's GitHub streaks"/>
-  </a>
-    
-  <a href="https://github.com/MujeebullahKalwar">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MujeebullahKalwar&theme=github_dark&exclude=github_dark" />
-  </a>
-</div>
-
-<hr />
+-->
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MujeebullahKalwar&theme=github_dark&show_icons=true&count_private=true&hide=stars)](https://github.com/MujeebullahKalwar) 
 [![](https://streak-stats.demolab.com/?user=MujeebullahKalwar&currStreakLabel=000&ring=2f80ed&fire=2f80ed)](https://github.com/MujeebullahKalwar)
