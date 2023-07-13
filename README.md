@@ -39,7 +39,7 @@ My name is Mujeeb Kalwar a Software Engineer from [Pakistan](https://unsplash.co
 ![ReactJS](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=FF66EF)
 ![Angular](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=FF66EF)
 
-## &#x1f4c8; GitHub Stats
+<hr />
 
 <a href="https://github.com/MujeebullahKalwar">
   <img src="https://streak-stats.demolab.com/?user=MujeebullahKalwar&currStreakLabel=000&ring=2f80ed&fire=2f80ed" alt="Mujeeb's GitHub streaks" style="max-width: 100%; width:48%">
@@ -51,7 +51,7 @@ My name is Mujeeb Kalwar a Software Engineer from [Pakistan](https://unsplash.co
 
 <div style="width: 100%; text-align: center;">
   <a href="https://github.com/MujeebullahKalwar">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujeebullahKalwar&langs_count=5" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MujeebullahKalwar&theme=github_dark&exclude=github_dark" />
   </a>
 </center>
 
