@@ -51,9 +51,6 @@ My name is Mujeeb Kalwar a Software Engineer from [Pakistan](https://unsplash.co
 
 <div style="width: 100%; text-align: center;">
   <a href="https://github.com/MujeebullahKalwar">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MujeebullahKalwar&theme=github_dark&exclude=github_dark" />
-  </a>
-  <a href="https://github.com/MujeebullahKalwar">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MujeebullahKalwar&theme=github_dark&exclude=github_dark" />
   </a>
 </center>
