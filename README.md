@@ -66,3 +66,8 @@ My name is Mujeeb Kalwar a Software Engineer from [Pakistan](https://unsplash.co
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MujeebullahKalwar&theme=github_dark&exclude=github_dark" />
   </a>
 </div>
+
+<hr />
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MujeebullahKalwar&theme=github_dark&show_icons=true&count_private=true&hide=stars)](https://github.com/MujeebullahKalwar) 
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MujeebullahKalwar&theme=github_dark&show_icons=true&count_private=true&hide=stars)](https://github.com/MujeebullahKalwar)
