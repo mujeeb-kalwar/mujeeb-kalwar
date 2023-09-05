@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Mujeeb Kalwar a Software Engineer from [Pakistan](https://unsplash.com/s/photos/pakistan), living in [Karachi](https://unsplash.com/s/photos/karachi).
+My name is Mujeeb Kalwar, a Software Engineer from [Pakistan](https://unsplash.com/s/photos/pakistan), living in [Karachi](https://unsplash.com/s/photos/karachi).
 
 [![Github](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://mujeeb.move.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=)](https://twitter.com/mujeeb_kalwar_1)
@@ -13,6 +13,9 @@ My name is Mujeeb Kalwar a Software Engineer from [Pakistan](https://unsplash.co
 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
 ![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF6666)
 ![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=FF6666)
