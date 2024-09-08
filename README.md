@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Mujeeb Kalwar, a Software Engineer from [Pakistan](https://unsplash.com/s/photos/pakistan), living in [Karachi](https://unsplash.com/s/photos/karachi).
+My name is Mujeeb Kalwar, a Software Engineer from [Canada](https://unsplash.com/s/photos/canada), living in [Vancouver](https://unsplash.com/s/photos/vancouver)
 
 [![Github](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://mujeeb.move.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=)](https://twitter.com/mujeeb_kalwar_1)
