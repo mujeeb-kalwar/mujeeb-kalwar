@@ -1,11 +1,11 @@
-# Hi there 👋
+# Hey 👋
 
-My name is Mujeeb Kalwar, a Software Engineer from [Canada](https://unsplash.com/s/photos/canada), living in [Vancouver](https://unsplash.com/s/photos/vancouver)
+My name is Mujeeb, Software Engineer from [Canada](https://unsplash.com/s/photos/canada), living in [Vancouver](https://unsplash.com/s/photos/vancouver)
 
 [![Github](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://mujeeb.move.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=)](https://twitter.com/mujeeb_kalwar_1)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=)](https://twitter.com/mujeebkpro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujeeb-kalwar)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mujeebkalwar)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mujeeb-kalwar)
 [![Github](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujeebkalwar.mk@gmail.com)
 [![Github](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=@mujeebkalwar)](tg://resolve?domain=@mujeebkalwar)
 
